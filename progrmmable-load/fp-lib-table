@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri "D:/Documents/Personal Projects/Programmable Load/lib")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "D:/Documents/Personal Projects/Programmable Load/lib/2020-03-03_04-00-48/footprints.pretty")(options "")(descr ""))
+)
