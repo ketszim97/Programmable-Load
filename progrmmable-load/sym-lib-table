@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name MCP4725A2T-E_CH)(type Legacy)(uri "D:/Documents/Personal Projects/Programmable Load/lib/MCP4725A2T-E_CH.lib")(options "")(descr ""))
   (lib (name 2020-03-03_04-00-48)(type Legacy)(uri "D:/Documents/Personal Projects/Programmable Load/lib/2020-03-03_04-00-48/2020-03-03_04-00-48.lib")(options "")(descr ""))
+  (lib (name progrmmable-load-rescue)(type Legacy)(uri ${KIPRJMOD}/progrmmable-load-rescue.lib)(options "")(descr ""))
 )

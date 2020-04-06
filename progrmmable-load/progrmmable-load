@@ -1,0 +1,37 @@
+Source:	D:\Documents\Personal Projects\Programmable-Load\progrmmable-load\progrmmable-load.sch
+Date:	4/5/2020 11:47:24 PM
+Tool:	Eeschema (5.1.2)-1
+Component Count:	32
+Ref	Value	Part	Footprint	Description	Vendor
+A1	Arduino_Nano_v3.x	MCU_Module:Arduino_Nano_v3.x	Module:Arduino_Nano	Arduino Nano v3.x	
+C1	1u	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C2	100n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C3	100n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C4	100n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C5	100n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C6	22n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+C7	1n	Device:C	Capacitor_SMD:C_0603_1608Metric	Unpolarized capacitor	
+DS1	HY1602E	Display_Character:HY1602E	Display:HY1602E	LCD 16x2 Alphanumeric 16pin Blue/Yellow/Green Backlight, 8bit parallel, 5V VDD	
+J1	Screw_Terminal_01x02	Connector:Screw_Terminal_01x02	TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal	Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J2	Conn_01x02	Connector_Generic:Conn_01x02	Connector:Banana_Jack_2Pin	Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)	
+Q1	IRLZ44N	Transistor_FET:IRLZ44N	Package_TO_SOT_THT:TO-220-3_Vertical	47A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 22mOhm Ron, TO-220AB	
+R1	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R2	10k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R3	100k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R4	20k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R5	150	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R6	150	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R7	180k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R8	20k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R9	2k2	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R10	20k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R11	2k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R12	150	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R13	18k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R14	18k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R15	0R1	Device:R	Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P20.32mm_Horizontal	Resistor	
+R16	2k	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+R17	220R	Device:R	Resistor_SMD:R_0603_1608Metric	Resistor	
+SW1	Rotary_Encoder	Device:Rotary_Encoder	Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm	Rotary encoder, dual channel, incremental quadrate outputs	
+U1	MCP4725A2T-E_CH	progrmmable-load-rescue:MCP4725A2T-E_CH-MCP4725A2T-E_CH	SOT-23-6_MC		
+U2	AD8608ARZ-REEL	progrmmable-load-rescue:AD8608ARZ-REEL-2020-03-03_04-00-48	footprints:AD8608ARZ-REEL		
